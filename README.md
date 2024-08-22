@@ -1,14 +1,20 @@
-🌐 Responsive Web Site
-Bu proje, HTML ve CSS kullanarak oluşturduğum bir responsive (mobil uyumlu) web sitesidir. Bu site, farklı cihazlarda (telefon, tablet, bilgisayar) sorunsuz bir şekilde çalışacak şekilde tasarlandı.
-📄 Site İçeriği
-- Ana Sayfa: Sitenin ana sayfası, kullanıcı dostu bir arayüz ile ziyaretçileri karşılar.
-- Hakkımızda: Proje veya site hakkında bilgi veren bir bölüm.
-- Hizmetler: Sunulan hizmetlerin listelendiği bölüm.
-- İletişim: Kullanıcıların size ulaşabileceği iletişim formu ve bilgiler.
-📂 Proje Yapısı
-- index.html: Ana sayfa dosyası.
-- styles.css: Tüm stil kurallarını içeren CSS dosyası.
-- images/: Sitede kullanılan görsellerin bulunduğu klasör.
+# 🌐 Responsive Web Site
+
+Bu proje, HTML ve CSS kullanarak oluşturduğum bir responsive (mobil uyumlu) web sitesidir. Bu site, farklı cihazlarda (telefon, tablet, bilgisayar) sorunsuz bir şekilde çalışacak şekilde tasarlandı. 📱💻
+
+## 📄 Site İçeriği
+
+- **Ana Sayfa:** Sitenin ana sayfası, kullanıcı dostu bir arayüz ile ziyaretçileri karşılar.
+- **Hakkımızda:** Proje veya site hakkında bilgi veren bir bölüm.
+- **Hizmetler:** Sunulan hizmetlerin listelendiği bölüm.
+- **İletişim:** Kullanıcıların size ulaşabileceği iletişim formu ve bilgiler.
+
+## 📂 Proje Yapısı
+
+- **index.html:** Ana sayfa dosyası.
+- **styles.css:** Tüm stil kurallarını içeren CSS dosyası.
+- **images/:** Sitede kullanılan görsellerin bulunduğu klasör.
+
 <img width="687" alt="Ekran Resmi 2024-08-11 20 36 57" src="https://github.com/user-attachments/assets/88f02304-5bef-4b6b-b250-f8a8587a0a6d">
 <img width="681" alt="Ekran Resmi 2024-08-11 20 36 53" src="https://github.com/user-attachments/assets/94dc15f0-a2db-4c23-bdea-d4ab222166bc">
 <img width="1464" alt="Ekran Resmi 2024-08-11 20 36 26" src="https://github.com/user-attachments/assets/7b82709d-8b7f-4be3-ad56-26a8c4ca3c44">
